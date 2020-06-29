@@ -18,9 +18,9 @@ function Delete-Logs {
     )
     
     Get-ChildItem $Directory -Force -ea 0 |
-    ? { $_.LastWriteTime -lt (Get-Date).AddDays(-7)} |
+    Where-Object { $_.LastWriteTime -lt (Get-Date).AddDays(-7)} |
     ForEach-Object {
-        $_ | del -Force
+        $_ | Remove-Item -Force
         $_.FullName | Out-File .\deletelog.txt -Append
     }
 }
