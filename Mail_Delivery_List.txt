@@ -1,0 +1,12 @@
+-----------------------------------------------------------------
+TO
+-----------------------------------------------------------------
+
+Voyager.Program.DeliveryCenter <List_custom_Voyager.Program.DeliveryCenter@3ds.com>; COCHRANE Phil (CONTRACTOR) <Phil.COCHRANE.Contractor2@3ds.com>; TRAN Tuan <Tuan.TRAN@3ds.com>; BRAUN Pierre <Pierre.BRAUN@3ds.com>; NARALE Amit <Amit.NARALE@3ds.com>; GORWADE Preeti <Preeti.GORWADE@3ds.com>; BARGE Rohit <Rohit.BARGE@3ds.com>; Voyager.Program.IndustrializationCenter <List_custom_Voyager.Program.IndustrializationCenter@3ds.com>; LOW Rachael (CONTRACTOR) <Rachael.LOW.Contractor@3ds.com>; SHROFF Shaunak (CONTRACTOR) <Shaunak.SHROFF.Contractor@3ds.com>; MODI Hemal <Hemal.MODI@3ds.com>; SPACKMAN David (CONTRACTOR) <David.SPACKMAN.Contractor@3ds.com>; Zrilic, Sasa <sasa.zrilic@bhp.com>; ZRILIC Sasa <Sasa.ZRILIC@3ds.com>; Bhosale, Vishal <vishal.bhosale@bhp.com>; JAMDADE Amit <Amit.JAMDADE@3ds.com>; V KULKARNI Nagaraj <Nagaraj.VKULKARNI@3ds.com>; KANERIA Aditya <Aditya.KANERIA@3ds.com>; AGRAWAL Silky <Silky.AGRAWAL@3ds.com>; KUMAR Dheeraj <Dheeraj.KUMAR@3ds.com>; HARMER Stephen <Stephen.HARMER@3ds.com>; roxana.gianazza1@bhp.com; Ramos, Sergio <sergio.ramos@bhp.com>; Godliman, Kim <kim.godliman@bhp.com>; Rossi, Paul <paul.rossi@bhp.com>; Sadler, Rosemary <rosemary.sadler@bhp.com>; Garner, Andy <andrew.garner@bhp.com>; eric.how@bhp.com; KHAMKAR Chetan <Chetan.KHAMKAR@3ds.com>; CHITTE Anil (CONTRACTOR) <Anil.CHITTE.Contractor@3ds.com>;Short, Bronwyn <bronwyn.short1@bhp.com>
+
+
+-----------------------------------------------------------------
+CC
+-----------------------------------------------------------------
+
+Voyager.Program.DefineandDesignCenter <List_custom_Voyager.Program.DefineandDesignCenter@3ds.com>; Voyager.Program.ExcellenceCenter <List_custom_Voyager.Program.ExcellenceCenter@3ds.com>; VIEL Thibault (CONTRACTOR) <Thibault.VIEL.Contractor@3ds.com>; DU PEYROUX Emmanuel <Emmanuel.DUPEYROUX@3ds.com>; UBALIJORO Achille <Achille.UBALIJORO@3ds.com>; KUMAWAT Mahesh <Mahesh.KUMAWAT@3ds.com>; MODI Hemal <Hemal.MODI@3ds.com>

@@ -1,0 +1,5 @@
+start "Chrome" "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"  -new-tab "https://bitbucket.org/bhptechsi/bhptechsi-voyager-enovia/commits/"
+start "Chrome" "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"  -new-tab "https://bitbucket.org/bhptechsi/bhptechsi-voyager-nativeclient/commits/"
+start "Chrome" "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"  -new-tab "https://bitbucket.org/bhptechsi/bhptechsi-voyager-biovia/commits/"
+start "Chrome" "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"  -new-tab "https://bitbucket.org/bhptechsi/bhptechsi-voyager-exalead/commits/"
+start "Chrome" "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"  -new-tab "https://bitbucket.org/bhptechsi/bhptechsi-voyager-quintiq/commits/"
