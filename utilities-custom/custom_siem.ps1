@@ -1,1 +1,0 @@
-Get-WinEvent -FilterHashtable @{ LogName='Security'; Id='4624'}  -MaxEvents 2 | Format-List TimeCreated,Message | Get-Unique
